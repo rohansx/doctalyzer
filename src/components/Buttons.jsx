@@ -9,7 +9,7 @@ const Buttons = () => {
 				<Link to='/ocr'>
 					<div>
 						<img
-							src='../src/assets/upload.png'
+							src='https://i.ibb.co/F3ZkQ8f/upload.png'
 							alt='upload'
 							className='button-img p-5 hover:p-2'
 						/>
@@ -26,7 +26,7 @@ const Buttons = () => {
 				<Link to='/medical'>
 					<div>
 						<img
-							src='../src/assets/medicine.png'
+							src='https://i.ibb.co/K9tDptR/medicine.png'
 							alt='upload'
 							className='button-img p-5 hover:p-2'
 						/>
